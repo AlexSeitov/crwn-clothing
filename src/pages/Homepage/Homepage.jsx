@@ -1,9 +1,9 @@
 import React from 'react';
-import './Homepage.scss';
+import './HomePage.scss';
 import Directory from '../../components/Directory/Directory';
 
 const Homepage = () => (
-	<div className="homepage">
+	<div className="homePage">
 		<Directory />
 	</div>
 )
